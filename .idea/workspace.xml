@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73f699f1-8990-4525-8f80-efbcaebcb92d" name="Changes" comment="Add POM pattern for the main page">
+    <list default="true" id="73f699f1-8990-4525-8f80-efbcaebcb92d" name="Changes" comment="Add method for checking if the link is correct">
+      <change afterPath="$PROJECT_DIR$/pages/locator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_main_page.py" afterDir="false" />
     </list>
@@ -53,10 +54,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/steven.noriega/PycharmProjects/OOP/pages"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\steven.noriega\PycharmProjects\OOP\pages" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\steven.noriega\PycharmProjects\OOP\pages" />
     </key>
@@ -92,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764866034449</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add method for checking if the link is correct">
+      <option name="closed" value="true" />
+      <created>1764867527967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764867527967</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating initial file" />
     <MESSAGE value="Add POM pattern for the main page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add POM pattern for the main page" />
+    <MESSAGE value="Add method for checking if the link is correct" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add method for checking if the link is correct" />
   </component>
 </project>
